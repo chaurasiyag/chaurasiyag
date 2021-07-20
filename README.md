@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p>
-    <a href="https://www.buymeacoffee.com/dksmuz7">
+    <a href="https://raw.githubusercontent.com/dksmuz7/dksmuz7/6557c462b072792712fc3867df786d2a225be3e7/payMe.jpeg">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sks01" />
     </a>
 </p>
