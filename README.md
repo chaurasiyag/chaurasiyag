@@ -62,6 +62,11 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<h3 align="left">LeetCode Stats</h3>
+<p align="center">
+    <img align="center" src="https://leetcode.card.workers.dev/?username=dksmuz7&theme=auto" alt="dksmuz7" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
