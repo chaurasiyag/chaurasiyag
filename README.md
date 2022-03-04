@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dksmuz7" alt="dksmuz7" />
+        <img src="https://github-profile-trophy.vercel.app/?username=dksmuz7&column=7" alt="dksmuz7" />
     </a>
 </p>
 
