@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Deepak Sagar</h1>
-<h3 align="center">An Electronics enthusiast, Circuit work lover from India</h3>
+<h1 align="center">Namaste 🙏, I'm Abhay Kumar Chaurasiya</h1>
+<h3 align="center">An enthusiast penetration testing learner from India</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=dksmuz7&label=Profile%20views&color=0e75b6&style=flat" alt="dksmuz7" />
