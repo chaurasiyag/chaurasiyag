@@ -3,6 +3,7 @@
 <h1 align="center">Namaste 🙏, I'm Abhay Kumar Chaurasiya</h1>
 <h3 align="center">An enthusiast penetration testing learner from India</h3>
 
+ <img align="right" alt="chaurasiyag's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/chaurasiyag?cardType=level-alternate&Border=DD272700&Background=00000000&Text=607DA5" />
 
 - 👀 I’m interested in security perspective of computer system and network.
 
