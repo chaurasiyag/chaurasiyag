@@ -34,7 +34,6 @@
 
 - 📫 **Connect with me**: 
   - Email: abhaychaurasiya97@gmail.com
-  - LinkedIn: [Connect for professional networking]
   - GitHub: [@chaurasiyag](https://github.com/chaurasiyag)
 
 ---
