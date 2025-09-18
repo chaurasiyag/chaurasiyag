@@ -7,8 +7,8 @@
 - 🎓 **Education**: B.Tech in Computer Science and Engineering from NIT Patna (2019-2023)
 
 - 💼 **Professional Experience**: 
-  - **Software Development Engineer** at **Amazon** - Amazon Bedrock Team (Current)
-  - **Software Engineer** at **Centre for Development and Telematics (C-DOT)**, New Delhi (1 year 4 months)
+  - **Software Development Engineer** at **Amazon** - Amazon Bedrock Team (Nov 2024 - Current)
+  - **Software Engineer** at **Centre for Development and Telematics (C-DOT)**, New Delhi (July 2023 - Oct 2024)
 
 - 🚀 **Current Focus**: Working on Amazon Bedrock - AWS's fully managed service for building generative AI applications with foundation models
 
